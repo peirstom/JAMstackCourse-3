@@ -19,7 +19,7 @@ In the video, we show the pre-built, ready-to-serve assets to out hosting enviro
 To work on this example locally, you can clone the repository and simply start editing. There is no build step or any pre-requisites.
 
 ```bash
-git clone https://github.com/peirstom/JAMstackCourse-2
+git clone https://github.com/peirstom/JAMstackCourse-3
 ```
 
 ## Clone and deploy
